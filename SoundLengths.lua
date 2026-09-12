@@ -1,4 +1,4 @@
-QuestReaderSoundLengths_Pack_WarlordsofDraenor = {
+SpeakStoneSoundLengths_Pack_WarlordsofDraenor = {
     ["32783_completion.ogg"] = 3.22,
     ["32783_description.ogg"] = 19.90,
     ["32784_description.ogg"] = 18.74,
